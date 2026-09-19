@@ -118,6 +118,9 @@ Based on the analysis, businesses can consider:
 | [📁 Customer Churn Dataset](./bank_customer_churn_dataset.xlsx) | Excel dataset used for the analysis |
 | [🖼️ Dashboard Screenshot](./customer_churn_dashboard.png) | Dashboard preview |
 
+## Case Study
+
+[View Case Study PDF](./bank_customer_churn_case_study.pdf)
 ---
 
 ## 📌 Business Value
